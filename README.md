@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Daniel Eldon Onguka
+# Hi there 👋 My name is Daniel Eldon Onguka
 
 ---
 
