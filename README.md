@@ -36,6 +36,6 @@ I’m a Front End Software Engineer contributing to frontend web applications. I
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Eldon-498&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eldon-498)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eldon-498&show=prs_merged,prs_merged_percentage)
+
 
 
