@@ -10,7 +10,7 @@ I’m a Front End Software Engineer contributing to frontend web applications. I
 - 🌍 I’m based in Nairobi, Kenya
 - 🌱 I’m currently developing Angular Apps, Spring Boot and learning Neural networks. 
 - 👯 I’m looking to collaborate on Front end React and Javascript projects
-- 💬 Ask me anything about front and back end engineering
+- 💬 Ask me anything about front and back end web engineering
 - 📫 You can contact me at eldondaniel2@gmail.com
 
 
