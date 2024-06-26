@@ -3,7 +3,7 @@
 ---
 
 ### :man_technologist: About Me :
-I’m a Front End Software Engineer contributing to frontend web applications. I'm aiming to bring business ideas to life through my knowledge as a front end software developer.
+I’m a Full Stack Software Engineer contributing to frontend web applications. I'm aiming to bring business ideas to life through my knowledge as a front end software developer.
 
 
 
